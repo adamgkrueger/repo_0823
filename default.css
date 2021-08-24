@@ -1,0 +1,56 @@
+Skip to content
+ 
+Search…
+All gists
+Back to GitHub
+@adamgkrueger 
+@eirikbakke
+eirikbakke/gist:1059266
+Created 10 years ago • Report abuse
+9
+2
+ Code
+ Revisions 5
+ Stars 9
+ Forks 2
+<script src="https://gist.github.com/eirikbakke/1059266.js"></script>
+Example CSS file
+gistfile1.css
+/* Applies to the entire body of the HTML document (except where overridden by more specific
+selectors). */
+body {
+  margin: 25px;
+  background-color: rgb(240,240,240);
+  font-family: arial, sans-serif;
+  font-size: 14px;
+}
+
+/* Applies to all <h1>...</h1> elements. */
+h1 {
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+/* Applies to all elements with <... class="someclass"> specified. */
+.someclass { color: red; }
+
+/* Applies to the element with <... id="someid"> specified. */
+#someid { color: green; }
+@adamgkrueger
+ 
+Leave a comment
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
